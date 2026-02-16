@@ -9,8 +9,15 @@ A fun and interactive web-based word guessing game inspired by **Elzero Web Scho
 You can play the game [here](https://salah-youseff.github.io/Hang-Man-Game/)
 
 ## 📸 Preview
-### Guess Word Screenshot
+### Hang Man Screenshot
 <img width="1074" height="497" alt="image" src="https://github.com/user-attachments/assets/df6394f0-066d-4bd9-81d6-c70fccd4edf5" />
+
+### When Win
+<img width="1043" height="475" alt="image" src="https://github.com/user-attachments/assets/c69b3e99-6978-4a4b-baee-cf6ab008ddbf" />
+
+### When Lose
+<img width="1119" height="695" alt="image" src="https://github.com/user-attachments/assets/dca83aaa-302b-4f21-b404-ffd8b78aa234" />
+
 
 
 ## 🕹️ How to Play
