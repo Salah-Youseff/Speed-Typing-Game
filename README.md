@@ -10,10 +10,10 @@ You can play the game [here](https://salah-youseff.github.io/Speed-Typing-Game/)
 ## 📸 Preview
 <img width="1101" height="528" alt="image" src="https://github.com/user-attachments/assets/385c17ce-c274-4626-9d71-64cb0be00fdd" />
 ### Game Interface
-<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/719d8033-759e-4b7a-9717-d61b70161e48" />
+<img width="1101" height="528" alt="image" src="https://github.com/user-attachments/assets/719d8033-759e-4b7a-9717-d61b70161e48" />
 
 ### Game Over / Win State
-<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/1498c716-becb-4856-b8d3-ce2edbcc2023" />
+<img width="1101" height="528" alt="image" src="https://github.com/user-attachments/assets/1498c716-becb-4856-b8d3-ce2edbcc2023" />
 
 ## 🕹️ How to Play
 1. **Choose Level**: Select your difficulty level (Easy, Medium, Hard) to set the time limit.
